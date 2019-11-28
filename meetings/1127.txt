@@ -1,0 +1,9 @@
+1. Planning , zoning & gravity model 
+- [ ] Keep local traffic local 
+- [ ] 
+2. Operation 
+- [ ] Artificial increase traffic on 185th 
+- [ ] Signal Preemption from fire station on 185th/Bronson 
+3. Safety 
+- [ ] Mix traffic is the worst (shopping, commute, bus time) 
+- [ ] Bike path slope and mix traffic
